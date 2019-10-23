@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { random } from 'lodash';
-import 'typeface-roboto';
 import Grid from '@material-ui/core/Grid';
 import QuoteMachine from './components/QuoteMachine';
 import { withStyles } from '@material-ui//core/styles';
